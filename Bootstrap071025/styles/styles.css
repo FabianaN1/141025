@@ -8,7 +8,7 @@
 .grid {
     margin-top: 20px;
     margin-inline-end:  20px;
-    width: 350px;
+    width: 300px;
     border-radius: 20px;
 }
 col{    
@@ -16,7 +16,4 @@ col{
 }
 .bannerempresa {
     width: 100 px;
-}
-.cardp {
-    display:flex ;
 }
